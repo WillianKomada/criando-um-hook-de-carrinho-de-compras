@@ -49,7 +49,7 @@ $ yarn start
 $ yarn server
 
 # Para rodar os tests de validação do projeto
-$ <p>yarn test</p>
+$ yarn test
 ```
 
 ---
