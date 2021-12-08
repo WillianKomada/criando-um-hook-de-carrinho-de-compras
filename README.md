@@ -8,7 +8,7 @@
 ## 📝 Sobre
 
 <p>
-  Desafio em criando um hook de carrinho de compras referente ao Chapter II. A aplicação se trata de um e-commerce de compras de sapatos, contendo funcionalidades como adicionar um produto ao carrinho ou removê-lo, incrementar uma quantidade do produto ou decrementá-lo, somar o valor de todos os produtos dentro do carrinho e suas respectivas quantidades, e tudo isso utilizando context API para compartilhamento de dados entre componentes. 🛒👟
+  Desafio 03 - em criando um hook de carrinho de compras referente ao Chapter II. A aplicação se trata de um e-commerce de compras de sapatos, contendo funcionalidades como adicionar um produto ao carrinho ou removê-lo, incrementar uma quantidade do produto ou decrementá-lo, somar o valor de todos os produtos dentro do carrinho e suas respectivas quantidades, e tudo isso utilizando context API para compartilhamento de dados entre componentes. 🛒👟
 </p>
 
 ---
